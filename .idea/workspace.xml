@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FruitShop" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f37f7f50-d0f1-4d30-b07c-8e8de96a548e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Mono.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Mono.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Mono.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Mono.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/Ubuntu/Ubuntu-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/AddCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/AddCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/ManagementController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/ManagementController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/SearchController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/controller/SearchController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/model/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/classes/model/ProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Mono.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Mono.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/assets/fonts/Ubuntu-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/FruitShop-1.0-SNAPSHOT/shop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vnpay/common/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vnpay/common/ajaxServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vnpay/common/vnpayQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vnpay/common/vnpayRefund.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/AddCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CheckoutController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/RegisterAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/SearchController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/CartDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ProductDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bWlrEbSGIoeXFSmbDbYxyLe6zv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/2024/SWP/FruitShop&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.24712643&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestMain">
+    <configuration name="MainShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainShop" />
+      <module name="FruitShop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestMain" />
+      <module name="FruitShop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="FruitShop">
+          <settings>
+            <option name="CONTEXT_PATH" value="/FruitShop_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="aa9de3a3-9f7e-4f9a-8db5-f2a09193c0ab" />
+        <option name="HTTP_PORT" value="9996" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50263" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="FruitShop" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.MainShop" />
+      <item itemvalue="Tomcat Server.Tomcat 10.0.20" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.MainShop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f37f7f50-d0f1-4d30-b07c-8e8de96a548e" name="Changes" comment="" />
+      <created>1706338915657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706338915657</updated>
+      <workItem from="1706338916607" duration="12033000" />
+      <workItem from="1706358847850" duration="14433000" />
+      <workItem from="1706410375455" duration="3501000" />
+      <workItem from="1706518358743" duration="3588000" />
+      <workItem from="1706524168384" duration="213000" />
+      <workItem from="1706845119312" duration="3187000" />
+      <workItem from="1707047438849" duration="176000" />
+      <workItem from="1707506912826" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.map" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/CheckoutController.java</url>
+          <line>230</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
